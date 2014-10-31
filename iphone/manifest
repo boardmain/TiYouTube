@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: TiYouTube
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+# these should not be edited
+name: TiYouTube
+moduleid: it.scsoft.tiyoutube
+guid: 86d69890-d5a0-4a2e-bf4c-a9708c75e68e
+platform: iphone
+minsdk: 3.4.0.GA
