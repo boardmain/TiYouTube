@@ -44,7 +44,7 @@ tiyoutube.openVideo({
 
 If you like my work and help me to mantain updated this module you can donate with paypal
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=samuele%2ecoppede%40gmail%2ecom&lc=IT&item_name=Titanium%20SDK%20Socialize%20Module&no_note=0&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="[paypal]" /></a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=samuele%2ecoppede%40gmail%2ecom&lc=IT&item_name=Titanium%20SDK%20Youtube%20Module&no_note=0&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="[paypal]" /></a>
 
 
 
